@@ -1,7 +1,11 @@
 body
 {
     
+<<<<<<< HEAD
     color:rgb(34, 54, 235);
+=======
+    color:rgb(250, 12, 12);
+>>>>>>> cabecera
     text-align: left;
     font-family: "Arial";
     margin: 0;
