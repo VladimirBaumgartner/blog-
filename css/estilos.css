@@ -9,6 +9,11 @@ body
     font-size: 16px;
 }
 
+#boton
+{
+  color: aquamarine;
+}
+
 #cabecera
 {
    background: rgb(15, 15, 174);
